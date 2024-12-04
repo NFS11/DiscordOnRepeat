@@ -11,6 +11,7 @@ Requirements:
 - A server with your bot in it (obviously)
 - Your bot (also obvious)
 - All message intents turned on
-- Before running open cmd and type in pip install disco rd.py
+- Before running open cmd and type in pip install discord.py
+- Also remember to edit the .py and replace 'YOUR BOT TOKEN' with your actual bot token
 
 If there are any issues do not hesitate to post an issue! I am willing to help those of you to my best!
