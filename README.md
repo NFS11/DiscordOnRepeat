@@ -1,7 +1,7 @@
 # DiscordOnRepeat
 Python script that will make your bot repeat what you say with a simple !repeat command.
 
-Discord on repeat is a Python script which just makes your bot repeat what you say after the !repeat command. Here are the commands you can use:
+DiscordOnRepeat is a Python script which just makes your bot repeat what you say after the !repeat command. Here are the commands you can use:
 - !repeat [what to repeat] - Main command. Repeats what is said after !repeat.
 - !ping - Use this command to see if bot is working.
 - !logout - Logs off the bot. This command can ONLY be used by the owner of the bot. Alternatively, use Ctrl+D in the python window that keeps the bot online.
